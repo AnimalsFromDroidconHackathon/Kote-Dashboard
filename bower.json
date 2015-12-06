@@ -1,0 +1,12 @@
+{
+  "name": "kote-dashboard",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tomasz Netczuk <netczuk.tomasz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AnimalsFromDroidconHackathon/Kote-Dashboard",
+  "moduleType": [],
+  "private": true
+}
